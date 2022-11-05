@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.skuzow.emptyaddons.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CrashReportMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
